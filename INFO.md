@@ -1,4 +1,4 @@
-\#  Zaliczenie ze systemu kontroli wersji 
+\#  Zaliczenie ze systemu kontroli wersji
 
 
 
@@ -10,6 +10,11 @@ Opis projektu
 
 \## Lista autorów
 
-\- Jakub Kostrzewa
-- Kostrzewa Jakub
+Jakub Kostrzewa
+
+Kostrzewa Jakub
+
+## Link do repozytorium
+
+https://github.com/xvvampird/zadanie\_git
 
