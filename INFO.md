@@ -18,3 +18,7 @@ Kostrzewa Jakub
 
 https://github.com/xvvampird/zadanie\_git
 
+## Ignorowane pliki
+
+sekret.txt 
+
