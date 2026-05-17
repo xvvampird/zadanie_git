@@ -1,2 +1,2 @@
-def pomnoz(a, b):
-    return a * b
+def pomnoz(a, b): 
+    return a * b * 2
