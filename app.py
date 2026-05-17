@@ -4,3 +4,6 @@ def pomnoz(a, b):
 
 def dziel(a, b):
     return a / b
+
+#  commit testowy
+
